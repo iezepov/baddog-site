@@ -4,7 +4,7 @@ date: '2024-09-09'
 updated: '2024-09-09'
 categories:
   - 'blogging'
-coverImage: '/images/we-are-doing-blogs-now.jpg'
+coverImage: '/images/we-are-doing-blogs-now.webp'
 coverWidth: 16
 coverHeight: 9
 excerpt: The initial blog post, about absolutely nothing.
