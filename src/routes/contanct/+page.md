@@ -1,11 +1,7 @@
 <svelte:head>
 
-<title>About</title>
+<title>Contact</title>
 </svelte:head>
-
-# Hi, I'm Ilya!
-
-I am a Software Engineer.
 
 ## Do you want to contact me?
 
