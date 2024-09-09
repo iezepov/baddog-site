@@ -21,9 +21,5 @@ export const navItems = [
 	{
 		title: 'About',
 		route: '/about'
-	},
-	{
-		title: 'Contact',
-		route: '/contact'
 	}
 ];
