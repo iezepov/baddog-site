@@ -3,20 +3,15 @@
 <title>About</title>
 </svelte:head>
 
-# About
+# Hi, I'm Ilya!
 
-This is an example of how you can have _markdown_ in page content!
+I am a Software Engineer.
 
-- How
-- **Cool**
-- Is _that_!?
+## Do you want to contact me?
 
-If you like, you can also import markdown into any Svelte page.
+ilya [at] baddog [dot] ch
 
-Anyway, you can find this file here:
+## Do you want to follow or connect?
 
-```
-src/routes/about/+page.md
-```
-
-Here's the [home link](/) if you wanna go back.
+- [Linkedin](https://www.linkedin.com/in/iezepov/)
+- [Github](https://github.com/iezepov)
