@@ -1,6 +1,6 @@
 <svelte:head>
 
-<title>About</title>
+<title>Bad dog's blog</title>
 </svelte:head>
 
 ## Hi, I'm Ilya!
